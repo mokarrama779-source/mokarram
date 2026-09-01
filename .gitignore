@@ -1,0 +1,50 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Generated files
+bin/
+gen/
+out/
+
+# Android Studio specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.aidl
+gen-external-apks/
+
+# The .vs folder contains build state and must be ignored
+.vs/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*~
+
+# Misc
+.classpath
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
